@@ -1,0 +1,45 @@
+body {
+    background-color: #E2E2E2;
+    font-size: 150%;
+}
+
+.card {
+    width: 750px;
+    margin: 150px auto;
+}
+
+.top {
+    background: url("../images/headshot.jpg") no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 600px;
+    margin: 0;
+    border-top-right-radius: 17%;
+}
+
+.bottom {
+    background-color: white;
+    margin-top: 0;
+    padding: 25px 75px 50px 75px;
+    border-bottom-left-radius: 17%;
+    border-top: 10px solid rgb(203,53,36);
+}
+    
+.new-student {
+    background-color: rgb(203,53,36);
+    color: white;
+    margin: 0;
+    padding: 5px 25px;
+    font-size: 135%;
+    width: 25%;
+}
+
+.new-student p {
+    padding: 0;
+    margin: 0;
+}
+
+h1, h2 {
+    margin: 0;
+    padding: 7px 0px;
+}
